@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=dangncode&color=green)
 
- ⚙️ I’m currently working as an automation development specialist in engineering. I have 13 years of experience in developing PLCs (Programmable Logic Controllers) and SCADAS (Systems for Control and Data Acquisition). 
+ - I’m currently working as an automation development specialist in engineering. I have 13 years of experience in developing PLCs (Programmable Logic Controllers) and SCADAS (Systems for Control and Data Acquisition). 
 
- 💚 In addition, I am passionate about web development, especially frontend, AI, 3D design, and photo and video editing. 
+ - In addition, I am passionate about web development, especially frontend, AI, 3D design, and photo and video editing. 
 
- ⚡ I am constantly looking to learn new things and I enjoy putting my skills into practice on personal and professional projects.
+ - I am constantly looking to learn new things and I enjoy putting my skills into practice on personal and professional projects.
 
 
 ---
 
- 🛠️  I’m currently learning Web application development. Some languages and tools:
+ - I’m currently learning Web application development. Some languages and tools:
 
 <div>
   &nbsp; &nbsp; &nbsp;
