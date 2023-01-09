@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
+</div>
 
 ### 🔭 I’m currently working as an automation development specialist in engineering. 
 
@@ -37,9 +39,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+<!----
 
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dangncode&theme=dark&border_radius=9&mode=weekly&ring=DDDDDD)](https://git.io/streak-stats)
-
+-->
