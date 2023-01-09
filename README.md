@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 </div>
-
+<br />
 
 ![](https://komarev.com/ghpvc/?username=dangncode&color=green)
 
 ### 🔭 I’m currently working as an automation development specialist in engineering. 
 
-  - I have 13 years of experience in developing PLCs (Programmable Logic Controllers) and SCADAS (Systems for Control and Data Acquisition). 
+     - I have 13 years of experience in developing PLCs (Programmable Logic Controllers) and SCADAS (Systems for Control and Data Acquisition). 
 
-  - In addition, I am passionate about web development, especially frontend, AI, 3D design, and photo and video editing. 
+     - In addition, I am passionate about web development, especially frontend, AI, 3D design, and photo and video editing. 
 
-  - I am constantly looking to learn new things and I enjoy putting my skills into practice on personal and professional projects.
+     - I am constantly looking to learn new things and I enjoy putting my skills into practice on personal and professional projects.
 
 
 ---
